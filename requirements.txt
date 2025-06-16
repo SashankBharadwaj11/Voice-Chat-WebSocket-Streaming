@@ -1,0 +1,10 @@
+httpx
+numpy
+python-dotenv
+scipy
+sounddevice
+pyaudio==0.2.14
+torch
+torchaudio
+websockets==10.4
+openai-whisper @ git+https://github.com/openai/whisper.git
